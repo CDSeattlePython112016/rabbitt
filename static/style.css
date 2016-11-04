@@ -1,0 +1,13 @@
+.building{
+  display: inline-block;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  width: 150px;
+}
+.green{
+  color: green;
+}
+.red{
+  color: red;
+}
